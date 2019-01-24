@@ -1,4 +1,4 @@
-package com.riftgames.soundboardtsmmyth;
+package com.blackskystudios.soundboardtsmmyth;
 //stand 5.9.
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -19,8 +19,8 @@ import android.widget.Toast;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
-import com.riftgames.soundboardtsmmyth.tabs.Tab1;
-import com.riftgames.soundboardtsmmyth.tabs.Tab2;
+import com.blackskystudios.soundboardtsmmyth.tabs.Tab1;
+import com.blackskystudios.soundboardtsmmyth.tabs.Tab2;
 
 import java.io.File;
 import java.util.Random;
@@ -122,7 +122,7 @@ public class MainActivity extends AppCompatActivity {
                 if(menuItem.getItemId() == R.id.teilen){
                     Intent shareIntent = new Intent(Intent.ACTION_SEND);
                     shareIntent.setType("text/plain");
-                    shareIntent.putExtra(Intent.EXTRA_TEXT, "https://play.google.com/store/apps/details?id=com.greenwoodsproductions.soundboardtsmmyth");
+                    shareIntent.putExtra(Intent.EXTRA_TEXT, "https://play.google.com/store/apps/details?id=com.blackskystudios.soundboardtsmmyth");
                     startActivity(Intent.createChooser(shareIntent,  "Share via..."));
                 }
 

@@ -1,4 +1,4 @@
-package com.riftgames.soundboardtsmmyth;
+package com.blackskystudios.soundboardtsmmyth;
 
 import org.junit.Test;
 

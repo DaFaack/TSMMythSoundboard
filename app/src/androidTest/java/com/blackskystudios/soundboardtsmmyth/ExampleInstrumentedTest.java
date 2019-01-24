@@ -1,4 +1,4 @@
-package com.riftgames.soundboardtsmmyth;
+package com.blackskystudios.soundboardtsmmyth;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.riftgames.soundboardtsmmyth", appContext.getPackageName());
+        assertEquals("com.blackskystudios.soundboardtsmmyth", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.riftgames.soundboardtsmmyth.tabs;
+package com.blackskystudios.soundboardtsmmyth.tabs;
 
 import android.Manifest;
 import android.app.AlertDialog;
@@ -29,8 +29,8 @@ import android.widget.Button;
 import android.widget.GridView;
 import android.widget.Toast;
 
-import com.riftgames.soundboardtsmmyth.MainActivity;
-import com.riftgames.soundboardtsmmyth.R;
+import com.blackskystudios.soundboardtsmmyth.MainActivity;
+import com.blackskystudios.soundboardtsmmyth.R;
 
 import java.io.File;
 import java.io.FileOutputStream;

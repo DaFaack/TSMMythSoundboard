@@ -1,11 +1,11 @@
 <resources>
 
     <string name="app_name">TSM Myth Soundboard</string>
-    <string name="package_name">com.riftgames.soundboardtsmmyth</string>
+    <string name="package_name">com.blackskystudios.soundboardtsmmyth</string>
 
-    <string name="banner_ad_unit_id">XXXXXXXXXXXXX</string>
-    <string name="interstitial_ad_unit_id">XXXXXXXXXXXXXXXXXX</string>
-
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_ad_frequency">2</string>
 
     <string name="action_settings">Settings</string>
 
@@ -19,7 +19,7 @@
     <string name="text_fuers_teilen_vor_name">✶Get the </string>
     <string name="text_fuers_teilen_nach_name"> NOW✶</string>
 
-    <string name="rechtliches">This Soundboard wasn\'t produced by Myth, but by some of his supporters. If Myth has an issue with this app, please get in contact with us and we will delete it immediately.\n\n<b>Imprint:</b>\nJordie Abel\n\n\nJordie.abel98@gmail.com</string>
+    <string name="rechtliches">This Soundboard wasn\'t produced by Myth, but by some of his supporters. If Myth has an issue with this app, please get in contact with us and we will delete it immediately.\n\n<b>Imprint:</b>\nblackskystudios.business@gmail.com</string>
 
 
 
